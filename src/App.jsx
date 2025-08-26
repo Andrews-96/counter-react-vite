@@ -6,7 +6,7 @@ export default function App() {
     <main className="container">
       <header>
         <h1>Contador React</h1>
-        <p>Proyecto base con Vite + React. Incluye un componente funcional con estado.</p>
+        <p>Proyecto base con Vite + React. No conoces el poder del lado oscuro.</p>
       </header>
 
       <section>
