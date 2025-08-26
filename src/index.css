@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+  background: #0f172a;
+  color: #e5e7eb;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.counter {
+  text-align: center;
+  padding: 2rem;
+  background: #111827;
+  border-radius: 1rem;
+  box-shadow: 0 5px 15px rgba(0,0,0,.3);
+}
+
+.display {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
+
+.actions button {
+  margin: 0 .5rem;
+  padding: .5rem 1rem;
+  font-size: 1.2rem;
+  cursor: pointer;
+}
